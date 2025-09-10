@@ -63,7 +63,7 @@ public class CollaborativeEdit {
         // TODO (Friend): Replace the placeholder name with YOUR name and a different note.
         // Make sure you *both* edit at least one of the SAME lines below.
 
-        String line1 = "Hello from <Your Name Here>! ✨";   // <-- both of you edit this line differently
+        String line1 = "Hello from Solomon! ✨";   // <-- both of you edit this line differently
         String line2 = "And hello from <Friend Name Here>! 🚀"; // <-- and/or this one
         String line3 = "We are testing Git merges and conflict resolution.";
 
